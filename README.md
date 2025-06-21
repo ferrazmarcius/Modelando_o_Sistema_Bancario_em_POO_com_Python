@@ -6,7 +6,7 @@ Este projeto é uma evolução de um sistema bancário simples, refatorado para 
 
 A arquitetura do sistema é baseada no seguinte diagrama de classes UML, que guiou a criação das entidades e suas relações:
 
-![Diagrama UML do Sistema Bancário]([https://i.imgur.com/seulinkdodiagrama.png](https://raw.githubusercontent.com/ferrazmarcius/Modelando_o_Sistema_Bancario_em_POO_com_Python/refs/heads/main/assets/diagrama_uml_banco.png)) 
+![Diagrama UML do Sistema Bancário](https://raw.githubusercontent.com/ferrazmarcius/Modelando_o_Sistema_Bancario_em_POO_com_Python/main/assets/diagrama_uml_banco.png)
 
 ## Funcionalidades Atuais
 
